@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 7
-title: TryHackMe NetSec Challenge Write-Up
+title: NetSec Challenge Write-Up
 img: writeup.png
 alt: image-alt
 
